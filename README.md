@@ -71,7 +71,3 @@ NetCrack is intended exclusively for authorized security testing on networks you
 **Unauthorized access to wireless networks is illegal.**
 
 The author is not responsible for misuse, unauthorized access, or any damage resulting from the use of this software.
-
-## License
-
-Choose an appropriate open-source license before distributing this project. 
